@@ -27,6 +27,7 @@ Avinash V K - avinash-vk
 Varun Seshu - Varun487  
 Pradish Kapur - pk-95  
 Noel Saju - Noel-jediknight  
+Anirudh Rowjee - `anirudhRowjee`  
 Shreya Gangadhar - shreyagangadhar  
 Navin Shrinivas - NavinShrinivas  
 Mukund Deepak - mukunddeepak  
