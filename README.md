@@ -30,4 +30,5 @@ Noel Saju - Noel-jediknight
 Anirudh Rowjee - `anirudhRowjee`  
 Shreya Gangadhar - shreyagangadhar  
 Navin Shrinivas - NavinShrinivas  
-Mukund Deepak - mukunddeepak  
+Mukund Deepak - mukunddeepak    
+Rakshith Shenoy - rakshithshenoy  
