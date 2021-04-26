@@ -32,6 +32,6 @@ Shreya Gangadhar - shreyagangadhar
 Navin Shrinivas - NavinShrinivas  
 Mukund Deepak - mukunddeepak    
 Rakshith Shenoy - rakshithshenoy  
-Mallika Sirdeshpande - gall1frey
-Arnav Kumar - ArnavKumar7
-
+Mallika Sirdeshpande - gall1frey  
+Karuna K C- karunakc  
+Arnav Kumar - ArnavKumar7  
